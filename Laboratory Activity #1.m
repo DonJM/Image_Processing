@@ -1,3 +1,6 @@
+%ITIM 85
+%Special Topics in Information Management
+%Laboratory Activity #1
 %NAME: Jay Mark Nicolas
 
 pkg load image;
